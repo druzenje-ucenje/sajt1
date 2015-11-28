@@ -4,7 +4,7 @@
  * Author URL: http://graphberry.com
  * License: http://graphberry.com/pages/license
  */
- 
+
 body{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 15px;
@@ -163,6 +163,7 @@ a:focus{
 }
 
 .jumbotron h1{
+	color: #B3B3B3;
 	text-transform: uppercase;
 	margin-bottom: 30px;
 }
@@ -193,7 +194,7 @@ SERVICES
 
 .service-item .icon i{
 	line-height: 110px;
-	font-size: 45px;	
+	font-size: 45px;
 	color: #fa694e;
 }
 
@@ -404,7 +405,7 @@ ul.social-icons > li > a{
 
 @media screen and (min-width: 768px){
 
-	.jumbotron h1, 
+	.jumbotron h1,
 	.jumbotron .h1 {
 		font-size: 75px;
 	}
